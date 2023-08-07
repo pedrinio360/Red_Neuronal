@@ -1,0 +1,3694 @@
+hola
+casa
+puerta
+cocina
+baño
+dormitorio
+sala
+almacén
+oficina
+lavandería
+ventana
+olla
+tapa
+cuchillo
+cucharón
+cuchara
+plato
+cántaro
+batan
+leña
+fogón
+colador
+sartén
+sal
+escoba
+asiento
+piso
+alfombra
+almohada
+peine
+cómo estás
+hasta luego
+ya amanece
+ya está aclarando
+ya está anocheciendo
+dialogos cortos
+dialogo corto
+buenos días
+buenas tardes
+buenas noches
+cómo están
+cómo está
+tome asiento
+descanse
+espere un momento
+qué desea
+salga por favor
+siéntese
+escuchen por favor
+pregunten
+respondan
+respondan
+escriban
+dibujen
+pinten
+vamos todos
+caminemos
+terminen
+jueguen
+hagan silencio
+trabajen
+no jueguen
+investiguen
+consulten
+gracias
+adios
+hasta mañana
+frases
+frase
+día domingo
+día Lunes
+mes de enero
+mes de junio
+pronombres personales
+yo
+tú
+usted
+el, ella
+nosotros
+vosotros
+ellos
+pronombres posesivos
+mi/mío
+tuyo
+de el
+nuestro
+vuestro
+de ellos
+pronombres demostrativos
+este
+ese
+adjetivos
+abundante
+bueno
+caritativo
+poco
+precio
+frío
+preñada
+limpio-claro
+mal crecido
+grande-alto
+amargo
+poderoso
+estrecho
+perezoso
+caliente
+curvo
+alegre
+corto-reducido
+liso
+virulento
+malo
+viejo
+perverso, mal genio
+dulce
+miserable
+nuevo
+suave
+ancho
+vieja
+poco
+primogénito
+anciano
+fuete
+cojo
+bonito
+alargado
+crespo
+Flaco, raquítico
+pequeño
+pobre
+vieja
+colores
+azul
+amarillo
+morado
+rojo
+Gris, plomo
+violeta
+café-castaño
+rosado
+verde
+negro
+blanco
+sustantivos
+pelo
+perro
+anaco
+metal
+tren
+avión
+carro
+caballo
+gallina
+pie
+pierna
+delantal
+burro
+pollo
+ropa
+sol
+punto
+fósforo
+himno
+hospital
+colegio
+caldo
+conjugación
+libro
+palo
+tienda
+cama
+mes
+luna
+menstruación
+letra
+esfero, lápiz
+Cuaderno, papel
+escritorio
+yerba
+laguna
+chancho
+Hoz, cuchillo
+bufanda
+paloma
+pato
+arco iris
+pájaro
+acequía
+azadón
+asuela
+Alpaca 
+oveja
+naturaleza
+olla
+alimento
+cuadro
+dulce
+gato
+sombrero
+fruto
+semilla
+camino
+.hoja
+mesa
+tela
+hilo
+juguete
+presidente
+piedra
+círculo
+pelota
+raíz
+café
+bolso
+dibujo
+nalga
+coxis
+flor
+universidad
+canción
+pan
+silla
+color
+hacha
+calzonaria
+zapato
+conejo
+pantalón
+cuchara
+casa
+soga
+jardín
+viento
+bandera
+escuela
+agua
+leña
+sangre
+número
+árbol
+TÉRMINOS DE LA FAMILIA
+padre
+madre
+visnieta (o)  
+último (a) hijo (a)
+hijo
+tía
+tío
+nuera
+abuelo
+abuelo
+consuedro (a)
+varón
+sobrino
+esposo, marido
+soltera
+madrastra
+padrastro
+bebé
+bisabuelo
+yerno
+sobrina
+hermana
+hermano a hermana
+bisabuela
+parentesco
+hermana a hermano
+hija
+joven
+esposa
+Mujer
+hijo
+niño
+hermano de hermano
+ADVERBIOS
+mucho
+bueno
+bien
+sí
+poco
+más
+allá
+segundo
+al frente
+tarde
+arriba
+sobre
+fuera
+manada
+lejos
+mañana
+ayer
+aquí
+mes
+después
+cerca
+hoy
+liso
+no
+abundante
+muy
+mal genio
+siempre
+antes, delante
+exceso 
+bravo
+día
+asi
+así mismo
+fuerte
+minuto
+todo
+de mañana
+dentro
+abajo
+rápido, pronto
+varios
+tras
+VERBO
+Jugar 
+aclarar
+escoger
+escupir
+masticar
+rematar
+arreglar
+arreglar
+sanar, curar
+hastiar
+empeorarse
+quitar
+retirarse
+retirarse
+traer
+recitar
+bañar
+apestar
+acarrear
+reír
+rasgar
+vencer
+continuar
+estornudar
+tejer
+resembrar
+estirar
+soasar, sancochar
+tener
+poner
+creer
+orinar
+defecar
+desyerbar
+curar
+entender
+coger
+patear
+sudar
+enviar
+soltar
+iniciar
+frotar
+decaer
+correr
+probar
+intercambiar
+tostar
+insultar
+ser – estar
+hacer morder
+gritar
+chillar
+suavisar
+brindar
+reanimarse
+ensuciar
+hechar
+alejarse
+helar
+masticar
+cubrir
+resembrar
+seguir
+vender
+torcer
+mecer
+revolcarse
+vivir
+quitar
+copiar
+escribir
+cortar
+dar
+olvidar
+desarrollar
+preguntar
+amar
+vomitar
+trabajar
+salir
+pegar
+castigar
+prestar
+pedir
+lavar
+besar
+percibir
+necesitar
+saludar
+leer
+esconder
+amanecer
+volar
+borrar
+limpiar
+hacer la pared
+saltar
+jugar
+dormir
+caminar
+llevar
+comprar
+despertar
+despertarse
+conocer
+observar
+hablar
+ir
+hacer
+meter
+casarse
+arrimar
+rajar
+desenredar
+venir
+parar
+pararse
+picar
+hacer así
+marear
+emboracharse
+votar
+rociar
+desayunar
+cernir
+filtrar
+esperar
+dibujar
+montar
+estrangular
+coser
+cocer
+arrastrar
+embellecer
+apolillar
+golpear
+cantar
+lavar
+juntar
+organizar
+preguntar
+investigar
+sembrar
+regresar
+hervir
+sentarse
+pinchar
+pintar
+evaluar
+bailar
+anochecer
+abrazar
+enfermar
+enfermarse
+hacer el amor
+beber
+escuchar
+parir
+partir
+subir
+dañar
+dañarse
+golpear
+nadar
+amontonarse
+morir
+crecer
+desarrollar
+enseñar
+aprender
+ayudar 
+cocinar
+arar
+entrar
+contar
+agradecer
+pensar
+numeros
+uno
+dos
+tres
+cuatro
+cinco
+seis
+siete
+ocho
+nueve
+diez
+once
+doce
+trece
+catorce
+quince
+dieciseis
+diecisiete
+dieciocho
+diecinueve
+veinte
+treinta
+cuarenta
+cincuenta
+sesenta
+setenta
+ochenta
+noventa
+cien
+mil
+millón
+número ordinal
+primero
+segundo
+tercero
+cuarto
+quinto
+sexto
+séptimo
+octavo
+noveno
+décimo
+décimoprimero
+décimosegundo
+décimotercero
+décimocuarto
+vigésimo
+trigésimo
+cuadragésimo
+quincuagésimo
+sexágesimo
+septuagésimo
+octagñesimo
+nonagésimo
+centésimo
+cuerpo humano
+pelo
+cabeza
+cerebro
+oído
+naríz
+boca
+diente
+lengua
+labios
+encías
+paladar
+ojo
+pupila
+pestaña
+ceja
+cara /rostro
+frente
+barba
+cuello
+esófago
+espalda
+hombro
+brazo
+mano
+dedo
+uña
+cadera
+cintura
+nalga
+coxis
+ano
+pene
+testículos
+vagina
+pierna
+muslo
+rodilla
+tobillo
+pie
+dedo del pie
+estómago
+intestino
+hígado
+pulmón
+pecho
+corazón
+hueso
+cuerpo
+sangre
+moco
+saliva
+vena
+ombligo
+placenta
+cuello
+costilla
+articulación
+vesícula
+bilis
+cólon
+piel
+mes del año
+enero
+febrero
+marzo
+abril
+mayo
+junio
+julio
+agosto
+septiembre
+octubre
+noviembre
+diciembre
+dia de la semana
+lunes
+martes
+miércoles
+jueves
+viernes
+sábado
+domingo
+término de lugar
+comunidad
+parroquia
+cantón
+ciudad
+provincia
+país
+país extranjero
+lugar
+dirección, región
+oriente
+norte
+sur
+este
+oeste
+américa
+costa
+sierra
+naturaleza
+término del agua
+río
+océano
+rocío
+helar
+lluvia
+granizar
+laguna
+vertiente
+nevar
+helada
+granizo
+arco iris
+surco
+acequia
+animal
+perro
+culebra
+gavilán
+hormiga
+zorro
+cangrejo
+caballo
+gallo
+gallina
+lobo
+variedad de loro
+pez
+animales
+burro
+tortuga terrestre
+variedad monos
+chivo
+pollo
+caracol
+lechuza
+mosco
+sapo
+iguana
+langosta
+sapo comestible
+quinti
+curiquingue
+cerdo
+paloma
+pato
+cóndor
+machi mono
+búho
+cuy
+lombriz
+guanta 
+saino
+oveja
+camarán
+murciélago
+gato
+insecto
+piraña
+pava de monte
+pulga
+piojo
+mariposa
+tigre
+guatusa
+danta
+calamar
+cienpiés
+venado
+tortuga terrestre
+pájaro (tucán)
+ratón
+gallinazo
+alacrán
+loro
+tórlola
+araña
+oso
+ganado
+conejo
+chicharra
+objeto/cosa
+computador
+teléfono
+emisora
+satélite
+casa
+cama
+lápiz
+escritorio
+iglesia
+pantalón
+copiadora
+televisión
+micrófono
+sombrerio
+tambor
+reloj
+zapato
+anillo
+falda
+guitarra
+plantas
+llillin
+floripondio
+ortiga
+taraxaco
+quishuar
+chonta
+palmera
+maíz
+choclo
+plátano
+camote
+frijol
+zambo
+totora
+oca
+maní
+cesped
+planta medicinal
+chocho
+papa
+pumamaqui
+patacon yuyo
+cabuya
+chimbalo
+chilca
+piña
+capulí
+quinua
+aguacate
+zanahoria
+paja toquilla
+zapallo
+carrizo
+cacao blanco
+mashua
+naranja
+yuca
+ají
+nogal
+habas
+altamisa
+arveja
+maíz germinado
+objeto de la escuela
+cartel
+cuadro
+anaqueles
+archivadores
+mesa
+silla
+ábaco
+mapa del mundo
+tizas
+marcador
+graduador
+pizarrón
+compas
+libro
+cuaderno
+lápiz
+borrador
+hojas de papel
+lamina
+acuario
+regla
+sacapunta
+computador
+televisor
+abecedario
+calendario
+canción
+historia
+adivinanza
+dicho
+trabalengua
+planta
+álbum
+maseta
+infocus
+colores
+reloj
+hoja  
+ventana
+juguete
+cuadro
+poema
+aula de clase
+cómo están niños
+cómo está profesor
+aquí tome asiento
+descanse bien
+amigo espere un momento por favor
+qué desea hermanita
+salga despacio por favor
+aquí siéntese por favor
+escuchen todos por favor
+pregunten fuerte
+respondan despacio
+respondan bien
+escriban poemas
+dibujen la casa
+pinten la comunidad
+vamos todos a la ciudad
+caminemos rápido
+terminen cuidadosamente 
+jueguen todos
+niños hagan silencio
+trabajen todos
+no jueguen niñas
+investiguen sobre la vida
+consulten sobre el trabajo
+gracias mujercita
+adios joven
+hasta mañana hermano
+frases
+frase nominal
+hermoso día domingo
+feliz día Lunes
+inicio del mes de enero
+fin del mes de junio
+pronombres posesivos
+mi mujer
+tu pelota
+perro de el
+nuestro carro rojo
+vuestros niños
+amigos de ellos
+pronombres demostrativos
+esta canción
+ese árbol
+frases adjetivas
+abundantes libros
+buen hijo
+abuelo caritativo 
+pocos panes
+buen precio
+noche fría
+cerda preñada
+agua limpia
+perro mal crecido
+oveja grande
+chicha amarga
+hombre poderoso
+camino estrecho
+niño perezoso
+comida caliente
+palo curvo
+soltera alegre
+pelo corto
+mano lisa
+cara virulenta
+corazón malo
+olla vieja
+mujer mal genio
+oca dulce
+amigo miserable
+libro nuevo
+carne suave
+pared ancha
+casa vieja
+pocas habas
+niño primogénito
+padre anciano
+hombre fuete
+gato cojo
+bonita flor azul
+soga alargada
+pelo crespo
+gallina flaca
+río pequeño
+mujer pobre
+perra vieja
+frases con colores
+flor azul
+sol amarillo
+bayeta morada
+sangre roja
+pantalón gris
+sombrero violeta
+ojos cafés
+falda rosada
+hoja verde
+anaco negro
+papel blanco
+frases con sustantivos
+pelo negro
+perro grande
+anaco rojo
+metal fuerte
+tren nuevo
+avión viejo
+carro amarillo
+caballo pequeño
+gallina gorda
+pie herido
+pierna gruesa
+delantal verde
+burro grande
+pollo pequeño
+ropa nueva
+sol caliente
+punto negro
+fósforo malo
+himno nacional del Ecuador
+nuevo hospital
+buen colegio
+caldo sabroso
+conjugación del verbo
+buen libro
+palo duro
+tienda grande
+cama dura
+mes de mayo
+noche de luna
+mujer con menstruación
+letra kichwa
+lápiz amarilla
+cuaderno pequeño
+escritorio nuevo
+yerba verde
+laguna negra
+chancho gordo
+hoz grande
+bufanda blanca
+paloma gris
+pato flaco
+hermoso arco iris
+pájaro anaranjado
+acequía larga
+azadón viejo
+asuela grande
+alpaca pequeña 
+oveja blanca
+hermosa naturaleza 
+olla negra
+alimento abundante 
+cuadro malo
+pan dulce
+gato negro
+sombrero grande
+fruto amargo
+buena semilla
+camino estrecho
+hoja grande
+buena mesa 
+tela rosada
+hilo grueso
+nuevo juguete 
+talentoso lider
+piedra roja
+pequeño círculo
+pelota blanca
+raíz alargada
+café amargo
+bolso viejo
+dibujo morado
+buena nalga
+dolor de coxis
+flor colorada
+gran universidad
+canción romántica
+pan largo 
+silla suave
+buen color
+hacha nueva
+calzonaria negra
+zapato café
+conejo blanco pequeño
+pantalón largo viejo
+cuchara grande
+casa muy bonita 
+soga corta
+jardín viejo
+viento frío
+bandera tricolor 
+escuela amigable
+agua limpia
+leña seca
+sangre roja
+número diez
+árbol greso
+FRASES CON TÉRMINOS DE LA FAMILIA
+buena padre
+madre linda
+visnieta pobre
+último hijo triste 
+dos hijos
+tía amorosa
+tío rico
+nuera buena
+abuelo malo
+abuelo viejo
+consuedro enojado
+un varón
+ocho sobrinos
+esposo abnegado 
+soltera huérfana 
+madrastra llorona 
+buen padrastro
+bebé tierno
+bisabuelo viejo
+yerno malo
+sobrina triste
+lindas hermanas
+tres hermanas
+bisabuela de buen corazón
+parentesco enojado
+hermano escritor
+primera hija
+gran joven 
+esposa cocina bien 
+mujer amorosa
+hijo estudiosa
+niño lloron
+hermano adinerado
+FRASES ADVERBIALES
+muchos niños
+buen gato
+buena vida
+digo sí
+poca llama
+habla más
+camina allá
+camina segundos
+juega al frente
+estudia por la tarde
+casa de arriba
+sobre la mesa
+fuera de casa
+manada de ovejas
+ciudad lejana
+día de mañana
+día de ayer
+aprende aquí
+mes de enero
+canta después
+vive cerca
+hoy estudia
+pared lisa
+no llora
+corre mucho
+muy bien
+hombre mal genio
+hasta siempre amigo
+va antes
+juega en exceso 
+gata brava
+lindo día 
+haga asi
+es así mismo
+piedra fuerte
+información en minuto
+come todo
+comida de mañana
+baila adentro
+habla abajo
+va rápido
+varios amigos
+tras la casa
+FRASES VERBALES
+jugar bien
+aclarar hermoso
+escoger bien
+escupir mucho
+masticar todo
+rematar bien
+arreglar bien
+sanarse mal
+tener dinero
+poner bien
+creer bien
+orinar bastante
+numeros
+una mano
+dos flores
+tres plantas
+cuatro palomas
+cinco pelotas
+seis camas
+siete soles
+ocho sillas
+nueve carros
+diez ojos
+once kamukuna
+doce aviones grandes
+trece conejos
+catorce sillas
+quince cobijas
+dieciseis maletas
+diecisiete niños
+dieciocho ollas
+diecinueve jóvenes
+veinte madres
+treinta aviones
+cuarenta amigos
+cincuenta patos
+sesenta chanchos
+setenta cuyes
+ochenta toros
+noventa fósforo
+cien dólares
+mil nevados
+millón de palos
+número ordinal
+primer lugar
+segundo día
+tercer mes
+cuarto niño
+quinto hombre
+sexto soldado
+séptimo grado
+octavo líder
+noveno ganador
+décimo estudiante
+décimoprimer trabajador
+décimosegundo jugador
+décimotercer cantante
+décimocuarta habitación 
+vigésimo aniverario
+trigésimo vendedor
+cuadragésimo comprador
+quincuagésimo narrador
+sexágesimo profesor
+septuagésimo curador
+octagésimo nadador
+nonagésimo sembrador
+centésimo poeta
+cuerpo humano
+pelo rojo
+cabeza grande
+buen cerebro 
+oído corto
+naríz larga
+boca pequeña
+diente blanco
+lengua larga
+labios rosado
+encías morada
+paladar pequeño
+ojos azules
+pupila café
+pestaña negras pequeñas 
+poca ceja
+hermoso rostro
+frente grande
+barba larga
+cuello corta
+esófago grueso
+espalda gorda
+hombro alargado
+brazo pequeño
+mano hermosa
+dedo largo
+uña blanca
+buena cadera
+bonita cintura
+nalga grande
+coxis fuerte
+ano herido
+pene largo
+dos testículos
+vagina
+pierna gruesa
+bonito muslo 
+rodilla suave
+tobillo largo
+pie sano
+dedo del pie largo
+estómago muy grande
+intestino delgado
+hígado graso
+pulmón gris
+pecho agrandado
+corazón alegre
+hueso duro
+cuerpo esbelto
+sangre de drago
+moco sucio
+saliva espesa
+vena delgada
+ombligo pequeño
+placenta fuerte
+costilla golpeada
+articulación enferma
+vesícula grande
+bilis amarillo 
+cólon rojo
+piel suave
+oraciones bien corregidas
+cómo arregló el camino
+hoy mismo alcanzará  por aquí
+a qué hora llegas
+el amigo quiere conversar
+vengo votando mi familia
+quién quiere ayudar
+está sentado un poco enojado
+qué viene haciendo hoy
+vengo muy cansado
+corto cabello
+la cabeza se llena de tierra
+has llegado a buen tiempo
+levantará pronto a trabajar
+he acabado pronto mi trabajo
+hoy he vendido bien 
+sería bueno que continúe así
+has entrado a otra casa
+vendrás ayudar en la minga
+qué va hacer hoy
+ya estoy saliendo a pasear
+dónde trabajó ayer
+ayer chamusqué chancho
+usted tiene fiesta
+en qué año ha nacido 
+camine tres pasos
+correrá para que llegue pronto
+hay un poco de subida 
+pasará arastrando por los espinos
+ha muerto el pequeño pato
+déle de comer tusa al chancho
+hagale cargar hierba al burro
+el conejo se metió en el hueco
+el pollo ya está bueno para el consumo
+da una la vuelta montado en caballo
+la mula tuerce la pata
+deben bailar sólo las mujeres
+anda arar el toro
+está débil por la enfermedad  
+él está curando en algún lado 
+pelará el toro colorado
+criará borrego tierno
+estoy con dolor de espalda
+abra el camino para arriba
+las hojas ha secado mucho
+la paja del paramo es dura
+el toro ha revolcado en el monte
+veo detrás de la loma
+viene el vaquero
+nos entontramos en camino estrecho
+y ahora por dónde das la vuelta 
+la hierba está madura
+ahora si preste el dinero   
+corta la paja para los cuyes
+riegue agua en las papas
+robaron al toro del potrero
+hará queso con la leche
+cocina las habas del otro año
+voy a sembrar la oca endulzada 
+fíeme mil dólares
+no sabes que ha muerto 
+la tierra no se vende 
+el páramo no se quema
+beberé con mil dólares 
+he gastado mi dinero
+ya he botado el sombrero
+el zorro me encontró en el camino
+llegué a casa al amanecer 
+he gastado lo que vendí el chancho
+ahora cómo me recupero
+guambras sin pensamiento
+guambra pensamiento de perro
+bien que fue a trabajar
+voy a buscar trabajo
+volveré al año
+abandono la casa y el terreno
+siembro papas con abono
+prepará bien la tierra
+pelará el cuy para la siembra 
+un cuarto para desgranar maíz
+motaña para pastorear chivos 
+mujercita lleve el guango
+cargue su bolcito colorado
+llame a su perrito
+suba por la montaña 
+gritará duro en la loma
+caminará viendo bien 
+el perro va entrar a la casa
+cuidado muerda el lobo
+guarde al perro en su casa
+los borregos tiernos están flaqueando 
+por el frente está mucha granizada  
+amaneció mucho frio 
+por arriba viene la sombra 
+el lobo malo me robó 
+viene la época de verano
+por eso hace mucho sol
+época de descanso de la tierra
+mucho sol también es para llover 
+en medio de la nube blanca
+se levantó el huracán muy grande
+levantó el viento y se lo llevó
+voltea para abajo y levanta
+mañana tengo que correr
+no se puede casar en verano 
+no se puede tener dinero
+no hay agua para cocinar 
+el enfermo sufre de dolor
+no se cura por la pobreza
+los granos también se acabaron
+estamos ayudando desde mi comunidad 
+qué trajo hoy
+cómo te gustaria que ayuden 
+brinde las papas cocinadas
+qué papas te gustaría
+ven cocinando la papa chaucha 
+vendrá cocinando en olla grande
+vendrá pelando la gallina negra
+molerá ají en la piedra 
+aquí se  come melloco 
+aquí están las habas cocinadas 
+aquí siembro trigo
+necesita alguna medicina
+machaque melloco y amarre
+el melloco blanco es cálido 
+haga agua de cebada tierna 
+cocine todas las flores y dele 
+limpie con cuy por encima
+aquí sirve cualquier planta
+la habilla es buena para comer 
+el chocho es rico 
+la zanahoria es buena para jugo
+la tierra negra es bonita
+la tierra arenosa se seca pronto
+la tierra gredosa es resbalosa 
+en la tierra piedrosa sembraré árboles
+en la tierra fría se enferma
+en la tierra caliente hay robos 
+haga levántar pronto a los jóvenes 
+hay que regar agua en la hierba 
+ve a buscar la leña para cocinar 
+qué va cocinar hoy 
+se ha roto el cántaro de agua 
+y ahora arregle como sea
+el niño no puede nada 
+pasé bailando en la fiesta
+amarre la leña con la soga 
+se afloja la carga de hierba
+no puedo cargar 
+pasa solo en casa y no sabes nada
+qué ves en el árbol
+veo una tórtola
+tira la piedra y mátale
+ha puesto huevos y está hechado 
+la mujer dio a luz
+paso desgranando maíz 
+mañana iré a la siembra
+señorita barre la casa
+debo tsaumar el terreno nuevo 
+quema la basura en la quebrada 
+compartan entre amigos
+todos pongan la comida 
+ponga la comida de la olla
+levanta el plato que está en el piso
+fui a un traslado 
+alimenta a la enfermita
+la viuda está llorando
+se cayó de encima de la parba
+se regó la gavilla 
+el hombre que sabe hacer la parba
+construye una casa de paja
+siembre un árbol
+parece encima de la piedra
+apague la luz para dormir 
+quién se ha muerto
+los niños se cayeron mientras jugaban
+cayó de un árbol grande
+hace frio por que cayó nieve en los cerros
+se perdió en pajonales 
+niño recoja la basura 
+no tires en la tierra cultivable
+preste un yugo para amarrar a los bueyes
+se perdió el azadón de tsaumar 
+viene el vendedor de la escoba
+sabes algo del niño perdido
+qué estan haciendo los padres
+está buscando preguntando a los vecinos 
+de dónde ha desaparecido
+se perdió estando jugando fuera de la casa
+con qué estuvo jugando
+estaba pateando la pelota
+quién está haciendo jugo
+lo está haciendo mi mamá
+cómo se llama su mujer 
+su nombre es Sara
+ella tiene familia
+si tiene familia
+cuál es su comunidad
+es de la comuidad San Pedro 
+qué fiesta hacen aquí 
+hacemos fiesta de carnaval
+qué hacen en la fiesta 
+todos cantamos y bailamos 
+cocina alguna comida
+si cocinan rica comida
+y eso dan de comer a alguien
+dan de comer a todos los acompañantes
+qué comida no puede faltar
+todos hacen chiguiles
+disfrazan bonito y bailan
+los varones bailan vestidos de mujeres
+entonan en tambor y rondin
+van bailando por la sementera
+bailan durante ocho días
+cantan alegres sobre la vida
+cantan tambien sobre la historia
+en disfraces llevan los colores de la naturaleza
+van visitando a toda la familia
+saludan piden perdón 
+por todo agredecen a Dios y se alegran
+asé la cabeza de oveja
+el niño tiene cabello negro
+quemé las cejas
+se pinchó el ojos
+se lastimó el oido
+está votando sangre por la boca
+se quemó lengua con agua caliente
+el niño está con dolor de dientes
+golpee en la nariz al perro
+el gata tascó al ratón en el cuello
+el caballo se rompió brazo
+el toro ha torsonado 
+ha fracturado la mano izquierda 
+al caer se golpeó la pierna
+amarrar machacando la hierba
+el hermano está con dolor de rodilla
+me quema todo el pie
+se inchó los dedos de la mano
+vota cortando las uñas del pie
+me pisó en los dedos del pie
+el ternero le tasca la teta
+la vaca no le deja mamar al ternero
+por estar sentado me duele la espalda
+se me amortigua la pierna 
+muchacho goloso de pan 
+a dónde viajas amiguito
+con quién estas borracho
+ha parido una oveja pequeña
+me gusta sombrero el negro 
+borracho perdió el conocimiento
+pienso que va pegar la mamá
+Tamya desgrana las habas
+tengo miedo por las noches 
+párate mas lejos 
+carita alegre bonita mujer 
+pienso que va avisar al hermano
+sonreída te acercas 
+me voy a una tierra lejana
+vamos a mi  tierra
+vamos a mi casa
+volvamos al paramo
+me iré montado en caballo
+asomando por la cima
+se escuchará mi silbo
+alegremente asoma por la ladera
+encárgame libro vecino
+aun no te vayas mujercita
+tueste maíz para comer 
+cocina colada de machica
+barrerá dentro de la casa
+pinta la casa papasito
+muchahos amarren ganados 
+ha venido la profesora de los niños
+no hagas llorar al bebe
+dale pan al gato
+yo soy adoptado
+el niño que te creaste 
+converse con su padre
+se agachó su papá
+buen hombre cultivador 
+tu comida esta agria
+recogerás pronto la tierra
+sabes comer aguacate
+has hecho una comida limpia
+aquí me esperará
+yo guardo mi dinero
+mejorarás tu forma de respirar
+un hijo esta aquí
+se entristece mi corazón
+tu duermes con la almohada
+yo amo a mi esposa
+la viuda está triste
+es un hombre viejo  
+quiero aprender a escribir
+apriete su mano
+tienes miedo a la araña
+en el cerro maté a la ardilla
+tu mano está asquerosa
+ha venido un burro
+debes arar su terreno
+yo cogí un pájaro
+ayer  me cansé
+tengo una lancha
+haga un hueco aquí con la barra
+tengo tres hermanas
+besé a mi esposa
+quitarás tu barba
+yo quiero una blusa
+yo lavo mi boca
+yo tengo dos cangrejos
+cuántas casas tienes 
+quebré una caña
+tus pestañas estan sucias
+me gusta tomar chicha 
+voy a comprar un colchón
+tengo que comprar en churo
+así tienes que pinchar 
+cosinará pronto la colada dulce 
+esto menciona a todos
+matará conejo y asará
+tengo que decir unas palabras
+ven acá corriendo
+pásame acá el costal
+tengo un craneo
+me enseñará a cortar cabello
+mujer haga la trenza de su cabello
+el sapo ha entrado en la hierba
+al anochecer sale la luna
+la gallina ha puesto cinco huevos
+del páramo se ve la ciudad 
+los dedos de la mano están torciendo 
+el fuego sigue prendiendon
+allí estan quemando basura 
+el fuego está prendiendo en la paja
+está saliendo humo negro 
+pronto ha sacado la leche 
+la puerta de la casa ha cerrado adentro 
+los hombres están bailando bonito 
+bonita flor blanca
+después del susto me calma el corazón 
+la noche está muy oscura 
+es hombre muy flaco
+ha sido una gran la montaña 
+el sabio está curando 
+ha cocinado locro de calabaza muy rico 
+el gato ha llevado la carne 
+ha muerto el pollo flaco 
+el chancho grande está enfermo
+al amanecer sale el sol
+voy a leer un poco en el libro
+cocinará dos huevos
+chamuscará al chancho tierno
+el chivo se ha roto la pata
+el muchacho ha prendido el fuego
+la mamá ya está sacando la leche 
+todos los días hace mucho sol
+por las montañas está cayendo nieve
+el árbol ha caído de la raíz 
+vengo cocinando desde la casa 
+yo estoy muy bien
+yo estoy bien
+estoy más o menos bien
+volverá en quince días 
+trabajó hasta media semana
+llegaré en media hora 
+comerán al medio día 
+a la media noche sale la luna 
+produce al medio año
+los minutos están corriendo 
+preste el esfero rojo
+se ha emborrachado con pájaro azul
+pinte de azul marino
+el cielo es color celeste 
+su casa esta pintada de amarillo
+esa flor es de color amarillo claro
+sementera de hierba es muy verde 
+pinte el dibujo con verde claro
+el tallo del árbol es café
+bonita flor de color rosado
+veamos algunos vocabularios 
+las palabras que hablan en todas las comunidades 
+las palabras para hablar de la familia 
+viene su abuela
+el abuelo se regresa 
+la anciana está enferma
+el anciano ha muerto
+queme la bayeta vieja
+tumbe el árbol viejo
+se está casando su hijo
+ha venido su hija
+mi papá tiene pena
+la mamá escarmina la lana 
+padrastro trabaja en la construcción 
+yo tengo madrastra
+hijastro me da de comer  
+hermanastro viene a visitar
+hermanastra me ayuda trabajar
+hijastra cuida a los animales
+la cuñada ama a mi hermano
+cuñado trabaja con suegro
+el tío vende el terreno  
+mi tía vive en la ciudad
+madrina llama para saludar 
+padrino me regala dinero
+ahijado brinda el pan 
+mi familia es muy grande 
+el hombre está muy enfermo
+mi esposa cría chanchos 
+mi esposo trabaja en la agricultura
+entre hermanos estudian
+lleva a la hermana a la escuela  
+da cocinando al hermano  
+hace anaco a la hermana 
+ha muerto un hombre
+la señorita piensa casar
+el joven no obedece
+ser viudo es triste 
+por ser pobre no compro 
+el joven está cansado ya tiene hambre 
+el joven se ha perdido 
+niño muere por tanto llorar
+la amante te busca  
+conoce dónde vive
+los amigos se reunieron para conversar 
+flor de nabo es amarilla
+flor de chocho es azul 
+mashua florece de color rojo
+mujer de bayeta verde
+el carro que compré es café
+el viudo viste de color morado 
+arveja florece de color lila
+cabello de color gris
+la señorita viste de rosado
+la tierra del páramo es negra
+la hoja de papel es blanca
+el perro es negro intenso
+cuánto tiempo le espero
+a qué hora llegó
+cuánto espacio necesitas
+los que viven en este mundo 
+el poder de la naturaleza
+lo que nos rodea en el universo
+tiene reloj para ver la hora
+cuántos minutos les espero
+cuantos litros por segundo
+casa de veinte años
+ya trabajó medio año
+tres meses de nacido
+semana de siembra
+trabajo en la madrugada 
+vengo jugando hoy día 
+comeré al medio día
+trabajaré hasta tarde
+viajaré de noche
+ha muerto a la media noche
+llovió duro al amanecer
+ya es tarde se anochece
+tristeza fue en el tiempo pasado
+vivamos el tiempo presente
+FRASES HABLADOS EN  ESPAÑOL 
+AQUÍ SOBRE LOS NÚMEROS 
+uno
+dos
+tres
+cuatro
+cinco
+séis
+siete
+ocho
+nueve
+dies 
+once 
+doce 
+trece 
+catorce 
+quince 
+dieciséis 
+diecisiete
+diesciocho
+diecinueve
+veinte
+veintiuno
+veintidós
+veintitrés
+veinticuatro
+veinticinco
+veintiséis
+veintisiete
+veintiocho
+veintinueve
+treinta 
+treinta y uno
+treinta y dos
+treinta y tres
+treinta y cuatro 
+treinta y cinco
+treinta y séis 
+treinta y siete
+treinta y ocho
+treinta y nueve
+cuarenta 
+cuarenta y uno 
+cuarenta y dos 
+cuarenta y tres
+cuarenta y cuatro
+cuarenta y cinco
+cuarenta y séis
+cuarenta y siete
+cuarenta y ocho
+cuarenta y nueve 
+cincuenta 
+cincuenta y uno
+cincuenta y dos
+cincuenta y tres
+cincuenta y cuatro
+cincuenta y cinco
+cincuenta y séis
+cincuenta y siete
+cincuenta y ocho
+cincuenta y nueve
+sesenta
+sesenta y uno
+sesenta y dos
+sesenta y tres 
+sesenta y cuatro
+sesenta y cinco
+sesenta y séis
+sesenta y seite
+sesenta y ocho
+sesenta  y nueve
+setenta
+setenta y uno
+setenta y dos
+setenta y tres
+setenta y cuatro
+setenta y cinco
+setenta y séis
+setenta y siete
+setenta y ocho
+setenta y nueve 
+ochenta
+ochenta y uno 
+ochenta y dos
+ochenta y tres
+ochenta y cuatro
+ochenta y cinco
+ochenta y séis
+ochenta y siete 
+ochenta y ocho
+ochenta y nueve
+noventa 
+noventa y uno
+noventa y dos
+noventa y tres
+noventa y cuatro 
+noventa y cinco
+noventa y séis
+noventa y siete
+noventa y ocho
+noventa y nueve 
+cien 
+doscientos
+trescientos 
+cuatrocientos
+quinientos
+seicientos 
+setecientos
+ochocientos 
+novecientos 
+mil
+mil cien
+mil docientos
+mil trecientos
+mil cuatrocientos 
+mil quinientos
+mil seiscientos
+mil setecientos
+mil ochocientos
+mil novecientos
+dos mil 
+mil uno 
+mil dos 
+mil tres 
+mil cuatro 
+mil cinco
+mil séis
+mil siete
+mil ocho 
+mil nueve
+mil diez 
+mil once
+mil doce
+mil trece
+mil catorce 
+mil quince 
+mil dieciséis 
+mil diecisiete
+mil diesciocho
+mil diecinueve
+mil veinte
+mil veintiuno
+mil veintidos
+mil veintitres
+mil veinticuatro
+mil veinticinco
+mil veintiséis
+mil veintisiete
+mil veintiocho
+mil veintinueve
+mil treinta 
+mil treinta y uno
+mil treinta y dos
+mil treinta y tres
+mil treinta y cuatro 
+mil treinta y cinco
+mil treinta y séis 
+mil treinta y siete
+mil treinta y ocho
+mil treinta y nueve
+mil cuarenta 
+mil cuarenta y uno 
+mil cuarenta y dos 
+mil cuarenta y tres
+mil cuarenta y cuatro
+mil cuarenta y cinco
+mil cuarenta y séis
+mil cuarenta y siete
+mil cuarenta y ocho
+mil cuarenta y nueve 
+mil cincuenta 
+mil cincuenta y uno
+mil cincuenta y dos
+mil cincuenta y tres
+mil cincuenta y cuatro
+mil cincuenta y cinco
+mil cincuenta y séis
+mil cincuenta y siete
+mil cincuenta y ocho
+mil cincuenta y nueve
+mil sesenta
+mil sesenta y uno
+mil sesenta y dos
+mil sesenta y tres 
+mil sesenta y cuatro
+mil  sesenta y cinco
+mil sesenta y séis
+mil sesenta y seite
+mil sesenta y ocho
+mil sesenta  y nueve
+mil setenta
+mil setenta y uno
+mil setenta y dos
+mil setenta y tres
+mil setenta y cuatro
+mil setenta y cinco
+mil setenta y séis
+mil setenta y siete
+mil setenta y ocho
+mil setenta y nueve 
+mil ochenta
+mil ochenta y uno 
+mil ochenta y dos
+mil ochenta y tres
+mil ochenta y cuatro
+mil ochenta y cinco
+mil ochenta y séis
+mil ochenta y siete 
+mil ochenta y ocho
+mil ochenta y nueve
+mil noventa 
+mil noventa y uno
+mil noventa y dos
+mil noventa y tres
+mil noventa y cuatro 
+mil noventa y cinco
+mil noventa y séis
+mil noventa y siete
+mil noventa y ocho
+mil noventa y nueve 
+dos mil cien 
+dos mil doscientos
+dos mil trescientos 
+dos mil cuatrocientos
+dos mil quinientos
+dos mil seiscientos 
+dos mil setecientos
+dos mil ochocientos 
+dos mil novecientos 
+tres mil 
+cien mil 
+doscientos mil 
+trescientos mil 
+cuantrocientos mil 
+quinientos mil 
+seiscientos mil 
+setecientos mil 
+ochocientos mil
+novecientos mil 
+millón 
+es diálogo sobre los saludos 
+amigo cómo está usted
+amiga cómo está usted
+yo también estoy bien
+yo estoy bién y usted
+yo más o menos 
+por qué mas o menos
+estoy poco enfermo
+estoy poco enferma
+qué enfermedad tienes
+tengo mucha tos
+qué nomás te duele
+me duele los ojos y la cabeza
+es lamentable con esa enfermedad 
+Cúrese pronto antes que empeore
+gracias usted también cuídese 
+cómo está buenos días
+bien buenos días
+cómo está pasando
+yo estoy pasando bién 
+cómo ha pasado usted
+yo también he pasado bién
+cómo pasó ayer
+ayer pasé bién 
+aquí diálogo sobre los animales
+qué animales tienes
+tengo tres chanchos
+tengo manada de ovejas
+tengo pocos de cuyes
+tengo pocas  gallinas
+tengo pequeños patos
+tango tres pavos
+tengo cuatro burros
+tengo seis conejos
+tengo ocho pollos
+tengo dos caballos
+tengo una mula
+tengo vacas
+tengo toros
+tengo un ternero tierno
+ternero es macho 
+una ternera es hembra 
+el borrego tierno es blanco
+el ternero tierno es colorado
+el ternero tierno es negro
+el toro es manzo 
+ganado del páramo es bravo
+la paja del paramo es verde 
+el toro bravo está en monte
+vamos a ver en páramo
+amarrará bien el ganado
+amarrará con soga larga
+dónde amarraré el ganado
+amarrará donde hay hierba 
+dónde está el ganado manso 
+está amarrado en la paja 
+deles agua a todos 
+traiga el toro 
+sacará leche para la comida 
+la leche es para vender 
+cuánto cuesta un litro 
+un litro cuesta un dólar 
+no está muy caro 
+entonces venda en medio dólar 
+ahí está bien 
+vendamos un ganado 
+qué ganado vendemos 
+vendamos el ganado café 
+no vendamos la vacona
+vendamos a la colorada 
+ya esta bien venda nomas 
+venda y compre otra 
+cómo compro ahora 
+comprará viendo bien 
+y ahora qué más puedo ver 
+viendo de raza grande 
+de patas gruesas 
+que sea manso para llevar 
+que sepa comer la paja 
+que coma hoja y pajilla 
+que alcance para arar
+cómo puedo ver todos lo detalles 
+andando buscará 
+también han parido las ovejas 
+debe pastar las ovejas hembras 
+hay que amarrar borregos 
+entoces con qué amarro
+amarrará duro con la soga 
+en dónde les amarro
+mirando buena hierba 
+cuidado el perro se come a las crías
+cuidado le coma el lobo
+amarrará a todos los perros 
+cuidado mueran los borregos tiernos 
+viene lluvia por el frente 
+está el día muy frío
+viene una nube por arriba 
+espiará ha de venir lobo
+dia lluviosa cae nieve 
+por eso será que hace mucho frío 
+la nube negra es para llover 
+mucho sol también es para llover 
+la nube blanca para verano
+levantó viento ha de llover 
+levantó viento  ha de caer helada 
+el viento regresó para abajo
+para mañana caerá helada 
+viene tiempo de verano 
+ha de secar toda la hierba 
+también dice que va a secar el agua  
+dice que van a venir enfermedades 
+dice que va a haber pobreza 
+dicen que va a perder granos 
+bonita es mi comunidad 
+qué granos produce
+cómo se siembra
+las papas se siembran haciendo surco 
+qué papas siembras 
+siembro la papa chaucha 
+siembro papa café 
+siembro papa negra 
+siembro para hembra 
+aquí produce melloco 
+aquí  hay habas 
+aquí siembro trigo
+tambien siembro centeno aquí 
+él siembra melloco 
+siembra melloco de variedad huevo de gallo
+tengo melloco blanco 
+él vota cebada
+produce la lenteja café 
+si produce habas de variedad de ganado  
+hay habas de variedad  porto 
+aquí siembran alverja 
+aquí existe la habilla 
+aquí siembra chochos 
+aquí siembra zanahoria 
+este es tierra bonita   
+esta es tierra arenosa
+aquí es tierra gredosa 
+allá es tierra piedrosa 
+aquí es tierra fría 
+aquí es tierra caliente 
+hijos levántese
+Carlos anda al agua 
+Alfonso anda y ven cargando la leña 
+en qué voy al agua
+anda y ven cargando agua en el cántaro
+yo qué hago
+entre los dos usted con Mirian
+haciendo los dos
+anda y ven amarrando la oveja 
+con qué voy a venir amarrando 
+anda y ven amarrando con esta soga 
+yo paso en la casa
+qué ve usted
+veo un hombres que está dando de comer
+un hombre muerto
+veo que está arando con bueyes 
+veo que una mujer está enferma 
+una mata de maíz
+veo una mujer que está sembrando
+veo una señorita que está barriendo  
+veo un hombre que está tsaumando 
+veo un hombre que está quemando 
+veo que está brindando comida al amigo
+veo la pambamesa 
+veo que ahí estan las ollas  
+veo que están votados los platos 
+veo un hombre enterrado 
+hombre dando de comer a la mujer 
+veo que están llorando las mujeres 
+veo que los hombres estan haciendo parba 
+hombre amarcando la gavilla 
+veo que están pisando la parba
+veo las chosas de paja 
+veo un árbol florecido 
+veo un terreno pedregoso
+veo una vela encendida 
+veo un hombre muerto 
+veo los niños jugando 
+veo los cerros grandes 
+veo que ha caído nieve en los cerros 
+veo páramos de paja 
+mujer está llevando basura 
+veo herramienta de arar
+veo el yugo para amarrar los bueyes
+veo un azadón para tsaumar 
+una mujer está sujetando la escoba
+ves a una mujer 
+qué esta haciendo la mujer
+va a cargar el agua
+de dónde va cargar el agua 
+va a cargar de la vertiente 
+en qué va cargar el agua 
+está yendo a cargar en el cántaro
+quién dijo que vaya a venir cargando el agua
+le mandó su mamá 
+cómo se llama la  mujer 
+la mujer se llama Sara
+la mujer tiene marido 
+si tiene marido
+cómo se llama él
+él se llama Mateo
+de dónde es esta mujer
+es de la comunidad Belén 
+la mujer tiene hijos 
+si tiene hijos
+cuántos hijos tiene esa mujer 
+cómo se llaman los hijos
+la mujer tiene alpargatas 
+no está descalzo
+esa mujer es hermosa 
+puesto la bayeta para atrás
+esa mujer está soltera
+no esa mujer es casada
+hoy día es carnaval
+hoy día es fiesta
+hoy viene carnaval
+hoy viene la fiesta
+el día domingo es carnaval
+llega en las horas de la misa 
+hoy es día de carnaval 
+llega el día domingo 
+coge esa agua
+no tengo agua dulce 
+nuestra gran montaña con hielo 
+está hechado el muerto en el camino
+no eres de buen corazón
+he venido para encontrarme contigo
+tú has causado problema a ellos
+me dejas bien triste
+nuestro gran héroe
+me gustó ese mensaje  
+dijo que hagamos lo mismo
+ellos se sentaron en la arena 
+mire ese pantano
+estire su mano
+Jesús subió al monte
+llenaron mucho el carro
+agua que viene de la quebrada
+estaban muchos espinos
+los hombres gritaron fuerte
+las autoridades les explotaron mucho
+cómo no voy a avisar
+ese es el carro nuevo
+ya se está secando el agua
+no regó mucho
+los mayores se seguían enfermando
+no es mi hermano
+pidan fuertemente a Dios
+lloraron todos los niños
+era corazón fuerte
+ese hombre vive solo 
+grite fuerte desde arriba
+se puso la ropa negra
+como poco poco
+este es un nuevo año
+esta es la fiesta del sol
+si se tiene todo
+el hombre que cree en Dios
+no le pidió a él
+a usted nunca le ofendí 
+esas palabras no son buenas
+llame acá al hombre
+ponga en la mano de la mujer
+hombre sin pensamiento
+a mí no me  molestes
+te quitaré lo que te presté
+anda trasquilando borregos
+viendo que sabe bien
+tú recuerda a Dios
+se bañó con la tierra
+él ya estaba despierto
+los niños se asustaron mucho
+llorando pidió a Dios
+mi abuelito
+nos quiso a todos 
+me gusta más el nuevo
+no se pierden los indígenas
+la hora que se va el sol
+ustedes vayan a la fiesta
+tiene menta clara
+avisa lo que mentiste 
+ella es mujer bonita
+no hay agua 
+este es mi dinero
+he aquí el agua dulce
+deja que coja el que desea
+no le estorbe a ella
+se hizo minga grande
+qué le dio a él
+el muchacho no hizo caso
+vamos a comer ahí
+vamos a comer en ese lugar
+ahí está un dinero
+Así había hecho
+ellos que vivan felices
+puse en sus manos
+si no me amas vete
+a ti yo te cuidé
+este es mi terreno
+no tomes eso
+coma bastantes comidas
+él trabajó así 
+sus animales
+ese es mi pato
+compra bonita bayeta
+así converse bonito
+ésta es comida caliente
+ella me comentó así 
+no falta la comida 
+soy idígena y hablo en kichwa 
+el día de ayer llovió
+ese árbol es muy grande
+por que quiso Dios
+Dios envió a anunciar 
+dice que reúnan los que necesitan
+se terminó ese trabajo
+no puedo quitar
+mi esposa es hermosa
+Maria cómo estas
+olvida lo que te dijo
+debe obedecer a su mamá
+mujercita vaya a la ciudad 
+asegure la puerta de casa
+se pelean mucho entre indígenas
+entre ellos se quitan el poder 
+los hombres que después cargaron 
+los hombres que andan con ellos
+eran muchos hombres
+los hombres que viven en la ciudad 
+se sentaron en la orilla de la vertiente
+entonaron en el rondín
+canten para mi Dios
+canten con las palmas
+anucien el nombre de Dios
+ahí le puso para que ayude
+ellos nos dieron de comer mucho
+ese llano de arena 
+otra vez se negó
+mire esas flores
+Manuel sueña mientras duerme
+vende en las ciudades grandes
+este hombre grande
+los que trabajan en la gobernación
+le echaron a la comunidad
+me llama ese hombre 
+corrieron por aquí y por allá
+se movió toda la tierra
+dos chivos grandes
+no se pelearán 
+ahí trabajaron mucho
+todas las comunidades 
+se oscureció el día 
+era un día triste 
+qué peligros se aproximan 
+pensará qué hacer 
+pida al padre Dios
+agua dulce de la vertiente
+salió del rio
+en el día salió el sol
+qué debes hacer
+ese es mi perro 
+de corazón ayudará en la familia 
+tu bailas en todas las fiestas 
+qué escribió en kichwa
+autoridades mataron a los indígenas 
+se puso en gran fuego
+a ellos les dio los agrados 
+los indígenas pensaron 
+viven dos mayordomos en la casa
+él odia a su familia  
+rompió su traje 
+caminó por mi camino
+que vivan los indígenas 
+por enfadado no come 
+los jóvenes se echaron en la tierra
+por la tristesa lloró mucho 
+no había cogido 
+entraron a la casa del patrón 
+cuánto de dinero dieron
+así les dijo a los muchachos
+a usted ya le desperté
+nunca se acercaron
+nadie lo quiso
+vamos a ver eso
+queria vender el maiz
+ahí le vi el dinero
+vamos a jugar con la pelota 
+debemos barrer la casa
+dejo que vaya a vender las ovejas 
+ese árbol está por caer
+vaya siguiendo el camino
+vamos a sembrar el maíz 
+el maíz amarillo ha crecido 
+pido a Jesús
+quedó pensando y le dijo 
+él es buen seguidor 
+voy a lavar mi ropa
+he perdido su dinero
+vaya y compre ese carro
+mi escuela
+mi esfero
+lastimé mi labio
+tengo tres perros
+no le haga llorar al niño
+compré la oveja negra
+espere tres dias 
+ahí se asomó maldad
+esa son palabras fuertes
+hoy sembraremos alverja
+a ellos les pedí dinero
+les encargué en sus manos
+vaya a la iglesia 
+aumenta los pecados en la tierra
+me robaron mi dinero
+se escondió sentándose detrás
+perdiendo muchos hombres 
+regalaron hermosas flores
+nació un niño
+apareció un bonito arcoíris
+siéntese al rincón
+compre este terreno
+una pareja recien casados 
+siéntese dentro de la casa
+se avergozaron los hombres 
+yo le creí a ella
+ahí construyamos la casa 
+vaya y escuche lo que hablan
+no mate a los animales
+no recuerden de eso
+sean obedientes a los mandamientos de Dios 
+tengan nueva vida
+júntese con buenos hombres 
+les dejé en la puerta de la casa
+cumple con los mandamientos de Dios
+la casa se quedó vacía
+cumpla con su palabra
+así debes hacer
+ese es mi hijo
+esa es agua dulce
+vamos a moler trigo
+toda la hierba se ha secado
+cogimos un conejo
+preste esa olla
+vamos a tomar agua 
+sembraré papas en el páramo
+ahí está durmiendo el bebé
+Jesús anunció así
+esa es una laguna grande 
+él se ha caído del árbol
+no piensa
+escuchó la buena noticia
+guarda en su corazón 
+ya no seguimos
+ha sembrado en buena tierra
+cómo te llamas
+ya fue abandonando la semilla
+apreció una flor blanca 
+ya está creciendo el maíz
+le vi una gallina en el cerro 
+me vende un árbol grande
+vive haciendo un nido
+el agua nos dá la vida
+ese es mi profesor 
+quién ha hecho esto
+qué me dijo a mi
+se va a acabar este mundo
+yo le ví un angel mensajero
+ahí llorarán ellos
+ya está brillando el sol
+el que escucha tiene oido
+se enterró el carro en la tierra 
+les presté mucha plata
+debemos regresar a estudiar 
+la plata que él escodió 
+donde está mi hermna
+vamos a sacar la leche
+a mí no me mientas 
+no escuché bien 
+ya empezó la lluvia
+camine pronto para acá
+vaya a bañarse en esa laguna
+esto no es mío
+debo comprar zapatos
+les mostré mi bebé
+le habló duro al ocioso 
+no serás ladrón 
+no serás malo 
+ya estás bien
+no se ve la luna
+este camino está en reparación
+yo hablé con Dios
+aparecieron muchas ranas
+ahora está granizando mucho
+está cayendo mucha nieve
+mi cuerpo está enfermo
+el suelo está temblando 
+hoy día está obscureciendo 
+sus ojos están obscuriendo 
+han venido muchos niños
+ya estoy cocinando todo
+a mí ya me da hambre
+me está doliendo mi mano
+está cayendo muchos palos
+el día está muy frio 
+todos los animales  están muriendo 
+vaya a laver la mano
+ya vengan a comer
+compré un taparrabo
+debes peinar bien
+debes lavarte los dientes 
+vamos a bailar con ellos
+hoy es la fiesta del sol
+se me acercó despacio
+no camines por ahí
+se levantó mucho viento
+cuántos años tienes
+como que no vieras
+no seas pecador 
+eso yo me acuerdo
+Jesús es como árbol de las uvas
+les rompí el árbol de capulí
+me fui por mi propia cuenta
+es árbol de mi papá
+retirará lo malo
+ustedes aprendan conmigo
+mañana también pasaré con ustedes
+es mi árbol de tacso
+ese árbo da fruto
+no podrán hacer nada
+se secará el árbol de peras 
+recoge y eche al fuego 
+ustedes pidan todo
+mi papá les prestará
+mi papá me quiere
+yo también les quiero a ustedes
+quién es ese  borracho
+ustedes están alegres
+ahí arriba están las golosinas 
+ese remedio es amargo
+entre ellos no se llevan
+no sabes nada 
+cierre esa puerta
+no está aquí
+no vaya a preguntar nada
+me está picando los ojos
+vaya a pedir dinero al papá
+se fueron dejándome
+por dónde hay que ir a casa
+guarde su zapato
+esta agua es muy picante 
+nosotros nos quedamos tristes
+ella es mi mamá
+una mujer está esperando 
+se escondió detrás de la puerta
+entren al interior y descancen
+María vamos afuera
+en el frío se prendió fuego 
+vamos a calentar en el fuego
+yo les avisé todo
+no hablo a las espaldas
+yo quiero ir contigo
+esta es la casa para la reunión
+hoy debemos reunirnos 
+no haces bien 
+yo sí puedo cocinar
+no debe gritar a nadie 
+tu cogiste eso
+no vengas acá 
+aquí se ha volcado una carro
+alguien ha muerto
+ésta es mi casa
+me tronché el pie
+él no habla
+por qué está callada
+él vive en tierras lejanas
+en este mes hay que sembrar
+hoy me corté la mano
+usted no saluda
+él es pequeño
+yo no sé nada
+cómo vas a decir eso
+tengo dos hermanos
+no puede caminar
+me da pereza caminar por ahí
+vaya  a bañar al perro
+va empezar a moler
+tengo una huerta
+siembra hierba para los cuyes
+hermoso vestido de él
+así terminaron los hombres
+anteriormente los hombres han ganado
+han venido de esa comunidad
+ha puesto en mis manos
+votando tierra en la cabeza
+poniendo ropa gruesa 
+pidieron mucho a Dios
+ya ha salido el sol
+hombres bien vestidos 
+no hagas nada
+bicho de cien pies 
+puso en sus manos
+el que asoma como un puma
+quemaron el kioscos de los guardias
+dejaron encendiendo el fuego 
+todos fueron comprando 
+las flores están hermosas 
+nadie llega
+poco a poco han salido los granos
+bonito maíz rojo
+en el camino apareció la serpiente 
+ha comido todas las habas
+ya no quiere comer
+tengo llama blanca
+no ha sido inútil
+ni sabe hacer nada
+por aquí y por allá ha hecho casas
+por aquí y por allá han muerto
+tú haces todo
+tiene brazos fuertes
+hasta el día está bonito
+lo que a él les gusta
+comerá y beberá alegre
+a él brindele la comida
+a él  dele de tomar vino
+compremos esa comida
+para no caer en pecado
+la comida de mi comunidad
+cuando se acaba la comida traída
+de dónde sacamos la comida 
+Juan no vive
+Así díjo la Judit
+cuente de su vida
+su empleada
+él aún no termina
+Judit durmió hasta la noche
+llevaron a su casa 
+luego cantó el gallo 
+para que pida a su padre 
+vaya junto con él 
+no atajará la pelea 
+dos niños negros
+sabia ir a la quebrada 
+regresamos bañándonos en la vertiente
+estos hombres son de su familia
+irán despertando a llos
+regresando se quedó ahí
+él sabía traer comida 
+el que brinda a las autoridades
+no invita a las autoridades
+era un hombre negro
+se fue en lugar de él 
+así dijo a él
+a mí me gusta eso
+a él no le podrás mentir
+él le reirá a mi
+si duerme me quedo mal 
+apareció un jóven bonito
+venga donde mis autoridades
+él te culpará a ti
+vivirás alegremente
+me iré hoy día
+lo que le gusta a él 
+yo haré pronto
+a él me encargá 
+es alegre hasta la muerte
+él morirá trabajando
+se fue bien vestido
+a su amada mujer
+había dado las ovejas
+entró hizo la cama y se acostó
+se alegró mucho de corazón
+me da miedo esa mujer 
+desde el día en que nací
+es hasta hoy día
+no ha tomado así
+tomó mucho vino
+llegó muy de noche
+cerró la puerta de la casa
+se retiró a todos los hombres
+lleno de carretera las ovejas  
+nadie es pequeño
+se quedó en el dormitorio
+así mismo se lo dijo
+todos habian salido
+se quedó un rato y dijo
+estire las manos y pida 
+coje esa agua
+no tengo agua
+nuestra gran montaña
+en el camino está echado muerto
+mal corazón
+he venido para encontrarme con tigo
+tú les causas daño a ellos
+nos dejas bien tristes
+nuestro gran héroe
+me gustó ese mensaje  
+dijo que lo hagamos así mismo
+ellos se sentaron en el llano
+mira esa virtiente de agua
+lo dejaron en sus manos
+los hombres subieron a la montaña
+se llenó todo el campo
+vive en esas quebradas
+había bastante equipaje
+gritaron al gran Dios
+los enemigos estaban alrededor
+no había por donde salir
+ese es el carro negro
+ya se termina el agua
+no bebió bastante
+los niños seguían enfermos
+no es mi amigo
+gritaron fuerte a Dios
+todos los hombres lloraron
+era una mujer fuerte
+la mujer se quedó sola 
+arriba de la casa colocaron una carpa
+se puso ropa de luto
+coma poco a poco
+este es un nuevo año
+esta es la fiesta del sol
+si tiene todo lo necesario
+por que se recuerda a Dios
+no le habla a él
+no te hablaba a ti
+ese mensaje no es bueno
+dile a Karen que venga
+dejemos ha decisión de nuestros enemigos
+no tiene sentido común
+no odien a Dios
+le quitaron sus pertenencias
+pasa pastando a su ovejas
+por que tíenes un buen corazón
+tú recuerda a Dios
+se puso ceniza en la cabeza
+ella ya era grande
+los hombres se asustaron
+se arrodillaron y oraron
+mi primer padre
+que Dios te bendiga
+a ti te va a vendecir mas
+no olvida a los indígenas 
+ya salió el sol
+ustedes vayan a la casa
+quítate de ese lugar
+di lo que hisiste
+hermosa pampa de hierba
+no hay dinero
+este es mi oro
+este es el vino de uva
+deja que tomen quien quiera
+a él no le haga tomar
+partes del cuerpo humano
+cabeza
+pelo
+cejas
+ojos
+oido
+boca
+lengua
+dientes
+nariz
+cuello
+brazo
+barriga
+mano
+pierna
+pene
+rodilla
+pie
+dedos de la mano
+uñas
+dedos del pie
+senos
+vagina
+espalda
+nalga
+hizo una gran comida
+qué es él para ti
+Martha no hizo caso
+vamos a jugar ahí
+vamos a comer allá
+ahí esta una pelota
+asi lo había escrito
+ellos que vivan en paz
+lo puse en mis manos
+si no tienes pena retírate
+yo te cuidé 
+esta es mi casa
+no cojas eso
+bebe un poco de agua
+ella me avisó de esta manera
+tu pueblo
+ese es mi perro
+compra un traje bonito
+así sigue cantando bonito
+esta es agua caliente
+Esther me dijo así
+el dinero no es bueno
+yo por ser  hombre
+en este dia lluvió
+ese árbol es viejo
+Jesús les envió por su voluntad 
+Jesús envió para que anuncie 
+se reunieron los seguidores de Jesús
+se acaba ese sufrimiento 
+no puedes llevar
+debemos vivir bién
+Cómo estas María
+olvida lo que te han dicho
+debes obedecer a su madre 
+vayan a la ciudad de Betulia
+cotrolen en las entradas de lo páramos 
+unanse con los índígenas 
+todos empezamos la minga 
+las solteras carguen la mochila 
+los que cuidan a los adultos mayores 
+eran los músicos 
+mujer que vive cerca a la ciudad 
+estan bañando a la novia 
+estan bañando abajo en la vertiente 
+estan tocando maestros andinos
+ya se casa mañana
+se encomienda en mano de Dios
+llevará a la iglesia 
+ahí recibirá la bendición 
+el sacerdote celebrará el matrimonio
+colocará el anillo en la mano
+luego hará el compromiso 
+se aconcejarán los mayores
+entregará las herramientas para trabajar 
+el padrino les dará la bendición
+la abuelita le pondrá el manto blanco 
+les colocará la cadena 
+saldrán de la iglesia 
+los familiares botarán las flores
+bailará en el patio
+todos los familiares les acompañarán 
+les cogerán a la venada 
+irán a la casa del padrino
+irán bailando por el camino 
+les acompañarán de diferentes comunidades 
+escretura antigua 
+se ve bonita la escritura 
+parece la buena nueva 
+es más claro que todo
+tambien de los mandamientos 
+les anunció a cada uno 
+para los que viven en este mundo 
+cómo empezó el mensaje
+el mensaje de Jesús
+el Jesús da el pensamiento
+el anuncio de la buena nueva empieza en el disierto 
+los desconocidos conversaron con él 
+sabían lo que habia
+el rey envió a ellos 
+arriba se prendió el fuego
+qué les daré a el
+está quemando la paja del paramo
+debemos apagar para que no llegue a las casas
+vayamos  juntos para apagar 
+se rompieron su ropas 
+caminé por mi propio camino
+muy triste gritó una y otra vez
+no comieron los indígenas 
+sacó cabando la tierra
+al frente están sacando un cadaver 
+no tienen miedo a nada 
+se llevan a la casa del fallecido 
+murió atorado con machica 
+sé ha quedado encima de la piedra 
+les han visto los que pastan los borregos
+hasta ayer nadie lo ha visto
+nadie lo buscó
+ha caminado desde la orilla del rio
+estaba tostando maiz y se fué 
+desde temprano está esperando mucho
+trabaja haciendo las pelotas 
+glopee en el patio de la casa
+friegue la quinua en la piedra 
+esta de fregar en la piedra de moler 
+vaya seguiendo el camino
+vamos a vender maíz 
+vendamos maiz negro
+es bueno vender en el día de los difuntos 
+día de los difuntos
+se van al cementerio
+mi  ropa envejece 
+toca votar en la basura 
+no votar donde quiera 
+debe quemar las ropas viejas 
+mi esfero 
+lastimé mis labios 
+ha parido tres perritos 
+se ha comido a sus mismos hijos
+comeré oveja negra 
+trabaja tres días 
+no te heches boca abajo
+les coge el espiritu malo 
+hoy voy a desbainar la alverja 
+vendiendo voy a prestar dinero
+juntaré con mis manos 
+voy a levantar mi casa 
+voy a vender todos los borregos 
+robaron mi dinero
+se escondió atrás 
+han separado muchos hombres 
+regalaron muchas flores 
+hombre y mujeres viajan 
+en la quebrada paró arcoiris 
+encima de la laguna 
+cómpre los árboles 
+debes hacer un poco más de leña
+tienes que guardar 
+para la fiesta del matrimonio
+no hará creer en vano
+cuidado no venga nadie 
+escuchará los consejos de los mayores 
+hay que pelar animales 
+se necesita carne para cocinar 
+hay que criar lechones 
+espino ha pinchado en el pie
+está cogiando del píe ezquierdo 
+la puerta de casa es de madera 
+entrará por la ventana 
+ver si está vacia la casa
+escuchará todo los que diga
+desbes cumplir bien 
+llama a mi hijo
+ven tomar pulcre
+haga pan de trigo
+para comer con colada morada
+pela un cuy
+tambien chamusquen el chancho
+asen el conejo en la leña
+cuidado el lobo coma de noche 
+haga dormir al niño en la cama
+ya está muy de noche
+será pecado que me de hambre
+el pájaro está silvando en el árbol
+está mal hecho
+ahora hay que arreglar bien
+me da ganas de comer locro de calavaza 
+hay que ir a buscar maíz en la sementera 
+sembré en el terreno del frente 
+qué maíz sembró
+sembré maíz amarillo
+estas papas están floreciendo 
+el maíz ya está en señora
+qué siembras en el páramo
+sembré las ocas blancas 
+está creciendo bonito
+ahora falta lluvia 
+en la parte alta es tierra negra
+es bueno para el pasto
+se llenan las malas hierbas 
+debía sacar pronto de tierno
+cuando llueve no pierde  
+usted quema pajonal
+no quemo degana
+ahí amarro los animales 
+más bien abonamos en la tierra
+corto para hacer casita de campo
+casita de campo es abrigada 
+ahí dormimos de noche
+nos hacemos de noche por el trabajo
+ahí mismo cocinamos 
+las ollas tambien tengo ahí
+comemos haciendo kariuchu
+tambien hay habas tiernas
+tambien hay como cabar papa chaucha
+viene agua de la sequia
+de gana hace lodo el terreno
+ayer me regaló el zapato
+hice curar mi bebé 
+no se por qué levanta huracán
+águila volando por arriba
+está buscando a los pollitos 
+arreglará el gallinero 
+no sembrar en la luna tierra
+este camino va a la ciudad 
+comprará pan dulce en la ciudad 
+las humitas son dulces 
+cómo se hacen las humintas 
+moliendo choclo maduro
+qué se pone en las humitas
+en otras comunidades conocen con nombres
+se conoce como masticado de abuela
+han muerto muchos niños
+ya estoy cocinando todo
+yo ya tengo sueño
+me duele la barriga 
+por fuera está lluviendo duro
+el niño está temblando de frío
+esta mañana ha caido helada 
+ahora nos secará los granos
+los granos tiernos nos moriran 
+mañana tengo que viajar en el tren 
+tengo que viajar a Huigra
+estoy buscando Doctor odontólogo 
+ha cariado la muela
+harás fiesta de carnaval
+vendrá para bailar un poco
+traerá el pájaro azul
+el viento regresó hacia abajo
+en qué año naciste
+te pasas viendo al frente 
+no escucha como la oveja 
+me gusta esa casa
+esa casa es bonita 
+esa casa es nueva y grande 
+casa muy alta
+el árbol de mi padre 
+retirará muy podridos
+el día viernes no fui a trabajar 
+a la escuela también falté 
+voy a cortar la paja del paramo 
+el cuy come la paja del campo
+necesito la paja del campo
+el paja del páramo es suave 
+tambien es bueno para pastar ganados 
+vámonos al mercado 
+mi papá si regala
+mi papá me quiere 
+también les quiero a ustedes 
+mi querido hijo
+ustedes estan enojados 
+es familia pobre 
+la señorita ya se quiere casar 
+por malo no se llevan 
+no conoces nada
+cierre bien la ventana 
+mi mama no está aquí
+a quién esta buscando 
+me duele el oido 
+vaya a pedir dinero al papá 
+se va votando mi hermano
+conoce camino del campo
+por dónde viene la lluvia 
+cuelgue su bayeta 
+présteme su collar
+qué horas es
+a qué hora desayunas por la mañana
+está esperando una chica
+esperame en la vertiente de agua
+mujercita asomate en el páramo
+quiero  ir contigo 
+esta es la escuela
+ahora debemos estudiar 
+no haces nada bien
+tu sabes cocinar 
+no ofender a cualquiera 
+usted es mujer que murmura 
+no se enoje de gana 
+carro que circula por la tierra
+carro de carga
+este es mi carro
+me corté la uña
+me corté las uñas de la mano
+por qué pinta las uñas
+vengo cansado de lejos
+en luna tierna coge orquillas
+has tenido cabello rubio
+mujer de pelo largo
+mujer de rostro colorado
+Mujercita alegre
+las que andan entre dos hermanas
+mujeres gemelas
+debe ir por camino espinoso
+camino con mucha piedra
+hay que ir por camino angosto
+camino con mucha cuesta
+modulo uno
+hoja de diálogo número uno
+hoja de diálogo número dos 
+hoja de diálogo número tres 
+chicos ya levantense 
+buenos días papacito 
+cómo amanecieron
+hemos amanecido bien
+ahora qué has soñado
+tengo un chancho
+y usted qué ha soñado 
+no estoy haciendo  nada
+no hemos soñado nada 
+escribia sobre su vida 
+hoy levantando de la cama
+qué has hecho
+escriba en lengua kichwa 
+dos oraciones interrogativas 
+escriba bien claro 
+tambien dos oraciones imperativas
+escriba buenas oraciones por favor 
+escriba fácil de entender 
+sobre que haceser en la casa
+para pedir a Dios 
+pidan Dios por favor 
+levantense para pedir 
+sientese para pedir a Dios 
+arodillense para pedir a Dios 
+pongan las manos para pedir  
+ya  nos estamos levantando 
+guambras bañense ya
+ya nos estamos bañando 
+guambras párense para pedir
+ya estamos parados
+guambras vengan
+ya nos estamos viniendo
+ahora vamos a trabajar
+escriba sobre su vida
+evaluemos el aprendizaje 
+evaluemos la gramática de kichwa
+qué clase de oración es
+escriba aquí el significado
+escriba los pronombres
+escriba los adjetivos y adverbios
+indique el significado de los verbos 
+escriba los sustantivos y verbos
+a mí ya me da hambre 
+guambras vengan acá 
+y el hemano Carlos
+aun no ha venido del agua 
+el guambra  ocioso aún no viene
+ven a coger agua
+yo en qué voy a coger 
+ven a coger de la espalda 
+ya voy a coger 
+hablemos con otras palabras 
+come aquí sentado por favor 
+papito ya me dá sed 
+beba esta agua 
+ya me da ganas de irme
+ya vaya nomas 
+ahora ya me da ganas de hablar 
+habla desde su pensamiento
+a mi ya me da frío 
+vistete con esta ropa
+el hermano aún no ha venido
+todavia no viene de la leña 
+guambra Carlos aún no viene
+todavia no trae el chancho 
+todavia no lleva la oveja 
+ven a cargar la leña
+ven a atar el cántaro
+ven a llevar la oveja 
+ven a retirar el puerco
+ven a coger la soga
+ven a sacar la leche
+ven a cocinar pulcre
+ven a tomar chicha
+contestemos estas preguntas 
+completemos estas preguntas 
+sobre los verbos indefinidos
+ya tienes ganas de comer 
+él ya tiene hambre
+nosotros ya tenemos hambre
+ustedes ya tienen  hambre
+ellos ya tienen hambre
+yo ya deseo comer 
+tú ya deseas comer
+él ya desea comer 
+hablemos del trabajo de los hombres 
+qué ves en el dibujo
+qué están haciendo los hombres
+están cargando a la virgen 
+de dónde están saliendo
+están saliendo de la iglesia 
+qué están llevando en la mano
+cómo estan yendo ellos
+ellos van cantando 
+van tristes o alegres
+ellos van alegres
+ellos van separados
+no van así 
+ellos van juntos
+si ellos van juntos 
+sólo van mayores
+también van los niños
+qué más hacen
+hablemos con otras palabras 
+coma choclo por favor 
+beba agua de remedio
+vaya nomas seguiendo camino
+hable nomas aquí con los dirigentes
+pongase este poncho 
+sobre las actividades del medio día
+traigan para comer todos 
+tenga pase los platos  
+aquí dele de comer a Nicolas 
+tenga lave el plato
+ya voy a lavar aquí
+lave este plato
+no lavaré la olla
+no quiero lavar 
+guarde los platos allá 
+mamita  dónde guardo
+hijo guarde en la bodega 
+come la machica 
+traiga agua para beber 
+preste la olla para cocinar 
+busque con este verbo 
+escriba oración imperativa singular 
+escriba dos oraciónes
+dónde guardo el cantaro
+qué olla guardo
+para qué traigo la soga
+de dónde traigo la leña
+te gusta dibujar
+qué fiesta hacen
+Jesús dijo así
+ellos los mayores
+eso no lo vez
+préstame un millón de dólar 
+como en ese sueño
+como en ese juego 
+han muerto cuatro
+un poco de ideas diferentes
+si quieres ver bien 
+Jesús  ha dicho así
+él me alegra a mí
+esa vida me gusta
+esa montaña es bonita
+las arvejas están floreciendo
+yo quiero agua
+ellos han dicho eso
+juega aquí con palos
+ya ha quemado el pan
+retírate de aquí
+así no se hace la leña
+días de cosechar maíz
+le envió a su hijo
+el que vive en Judea
+el gran rey 
+los días que nació Jesús
+en esos dias salió el sol
+ellos sembraron así
+por dónde que sale el sol
+por eso creemos en él 
+al escuchar lo mencionado 
+Herodes se asustó  
+el que vive en Jerusalen 
+tambien se asustaron todos los hombres 
+les preguntaron dónde han nacido 
+así dijeron ellos
+nació en el pueblo de Belén
+el mensaje antiguo dijo así
+no eres tan pequeño
+él es mi elegido
+esos hombres sábios
+vieron ese lucero
+envió a los hombre a Belén
+vayan ha buscar bién al niño
+para ir ha adorar a él
+me avisa para irnos
+me invitaron
+fue al pueblo de Egipto
+los hombres sabios ya retornaron
+cuando ellos caminaban por el camino
+nuevamente se adelantó
+en dónde está ese lucero
+en dónde estaba el niño
+ahí arriba se puso de pie
+al ver ellos se arrodillaron
+volvieron por otro camino
+se apareció José en el sueño
+el gran enviado de Dios
+esa es mi ciudad
+le buscarán al niño para asesinarle
+le llevaron a Egipto
+estuvimos viviendo en esa ciudad
+le estoy llamando a mi hijo
+el gran aviso de Dios
+por qué Herodes mató a los niños
+Herodes se enojó  mucho
+también mató alrededor de la ciudad 
+el primer mensajero Jeremias 
+gritando fuerte en el pueblo
+lloran por sus hijos
+no llores mucho
+José contó de sus sueño
+vuelve al pueblo de Israel
+al regresar a esta ciudad
+ha regresado a esta ciudad 
+temía regresar a Judea
+fue a la ciudad de Galilea
+fue a vivir en el pueblo de Nazaret
+se aproxima anunciado de Jesús
+en aquel tiempo bautizó
+ahora por ser pecadores
+preparen el camino pronto vendrá Dios
+el camino por donde él anda
+se bautizaron en el agua 
+a ellos les dijo
+son malvados como la serpiente 
+nuestro primer padre
+así les digo a ustedes
+para cortar el árbol desde la raíz 
+este árbol no da fruto
+el que viene después de mi
+a mí me tienes que bautizar 
+guarda el trigo en la casa
+vino al río Jordán
+Jesús estaba saliendo del agua
+el que me alegra a mí 
+luego tuvo hambre 
+recoje estas piedras
+les puso en la cima
+mande a ver  
+no me lastimes la mano
+no hagas eso
+entren por la puerta angosta
+las uvas tienen espinas
+algo que no se come
+no entrarán todos 
+los que dicen Jesús 
+enviados de Dios 
+el gusto de mi padre
+anunciamos en su nombre
+esto no es para mi 
+ustedes retirense de este lugar
+esta es mi  enseñanza
+ustedes escuchen esto
+sobre las piedras  del río
+construyan sobre las rocas 
+después de construir 
+cuando llueve levanta las crecientes 
+vino mucho viento
+ya quizo votar la casa
+no se cayó la casa
+escuchando estos mensajes 
+como sin sentimiento 
+es gran tristeza 
+él tiene todo
+lo que el nos enseño
+Jesús enseñó así
+les enseñan el mensaje de Jesús 
+sanó a un hombre enfermo
+Jesús estaba bajando del monte
+puedes curarme a mí
+no avisar a nadie 
+ve a mostrarle al cura
+que encomiende a Dios
+el jefe de cien soldados
+solo soy el que cumplo órdenes
+en este lugar sale el sol
+por aquí entra el sol
+sentará a comer con Jesús 
+estará abandonado en la oscuridad
+en ese momento Maria lloró
+regrese nomas a tu casa
+ya se habia recuperado 
+Pedro no te vayas a la casa
+levantate que ya estas bien 
+cocinen para bridarles a ellos
+quiero ir contigo
+las tórtolas tambien tienen nidos
+levantó fuerte viento
+el viento movió el agua
+se llenó el agua en el barco
+debemos escuchar el mensaje
+los hombres eran malos
+no camines por malos caminos
+no nos hagas llorar
+ellos le gritaron a él
+niño no tengas miedo
+te perdono tus pecados
+cómo va estar triste
+hay que temer a Dios 
+mañana se conocerá todo
+vete de mi pueblo
+gritó de encima de la casa
+no mates su espíritu
+tu cabello
+ustedes pueden todo
+yo desde el cielo
+le desconozco a él
+buen vivir 
+qué vieron en este mundo
+miren esas flores
+los oídos sordos
+cumplan los mandamiento de Dios
+él tomó el agua
+qué nos podrá pasar
+esta pampa de maíz
+el día que Dios presentó
+de dónde vienes hermana
+dónde vives hermanito
+de dónde eres Manuel
+a dónde vas mujercita 
+dónde estas amigo
+de dónde vienes José
+de dónde viene Rosa
+José quién viene
+a dónde te vas Sisa 
+usted dónde cocina
+niño dónde pasta usted
+quién viene por arriba
+quién viene por abajo
+dónde vendes Juana 
+en dónde se está casando la Rosa
+dónde esta su marido
+dónde esta su esposa
+dónde vienes dejando al niño
+dónde nació usted
+tú tienes hija
+tú tienes hermanas 
+cuántos hermanos tienes 
+dónde estan sus ganados 
+venda un perro 
+aún están muy tiernos 
+tienes un buen carro 
+cuando crezcan venderán los machos 
+vende su ropa
+preste su lapiz 
+está enferma su mamá 
+su papá está trabajando
+dónde está su comunidad
+dónde está su teléfono
+muy buena musica
+muy bonito bailas
+muy bonita hija
+muy bonito hijo
+tienes un gato tierno
+buenos días mamá
+amigos cómo están 
+que tengan un buen día 
+hasta mañana hermanito 
+volverá tarde papasito
+ya vengo cocinarán
+qué quiere comer para cocinar 
+de dónde es su cuñada 
+hijos están viviendo
+estas bien hermano
+hermanita estas descansando
+hermanito estás bién
+estas bien hijo
+viene su familia
+el bebé está llorando tristemente 
+hermanita amarre su cabello
+cómo te llamas
+qué haces hermana
+en qué trabajas cuñadito
+a dónde te vas mañana
+a dónte te fuiste ayer
+ayer con quién estuviste 
+quién vino ayer
+qué hizo ayer
+con qué vino ayer
+ayer si fuiste a la comunidad 
+ayer si bailó en la fiesta
+ayer si comió en la fiesta
+ayer si fuiste a la fiesta
+ayer si fuiste a bailar
+ayer no vino
+ayer te pegó tu papá
+quién vendrá hoy  
+ahora esta comiendo la mamá
+estoy bien papasito
+me llamo Rosa
+le agradezco amiga Sara
+papá ven a comer
+ven acá muchacho
+hermana traiga agua
+papá tomate agua
+mamá come machica
+Sara come mote
+Rosa comprate un carro
+Antonia vamos en carro
+Ana no come
+mira esa araña
+compra la abeja
+coje esa hormiga 
+ahí está caminando la luciernaga
+vamos coger pato
+vamos a comer chancho
+vamos a jugar el lobo
+vamos a regalar un conejo
+vamos a pegar al burro
+mamá coge al ratón 
+papá vende al chancho
+hermana pega al perro
+hermano compra pan
+cuñado regálame un borrego
+hijos darán de comer al comer
+traerá al perro macho
+llevarás al perro blanco
+compra perro grande 
+traerás al perro bravo
+comprará comida de perro
+el perro se ha comido al pato
+el gato está jugando con el conejo
+papá vaya amarrar el ganado
+cuñado vaya a dar agua al ganado
+vamos comprar  ropa
+vamos traer borregos
+vamos a vender leña
+bridará tostado al muchacho
+traerá el chancho a la casa
+el lobo se ha comido la oveja
+el lobo viene en la noche
+el lobo muerde a la mamá
+el lobo asustó al niño
+el lobo esta comiendo al frente
+el lobo anda con su hijo
+el lobo está peleando con el perro
+el perro esta pegando al lobo
+el lobo ha sido grande 
+al frente han matado al lobo
+la mamá trajo al burro
+el papá viene comprado una oveja
+la hemana viene comprando gato tierno
+el cuñado está pegando a la hermana
+la cuñada esté pegando a su hijo 
+el hermano está enojado con la esposa 
+el perro ha mordido al niño
+el gato ha tragado la carne
+el chico de arriba está riendo
+la oveja está comiendo el choclo
+el lobo esta durmiendo al frente 
+el águila se ha comido al pollito
+compro chancho para la carne
+ven a comer el cuy
+abajo está manada de borregos
+al frente están bastantes gatos
+abajo está hablando a la mamá 
+el papá agredió a la mamá
+el cuñado ha comprado oveja
+la cuñada está lavando la ropa
+la Susana está jugando en el agua
+el Segundo está pastando ovejas
+la señora está leyendo el libro
+la Sandra está pelando papas
+el hermano viene sonriendo
+la hermana está sentada enojada 
+la mamá pegó a la hermana
+el papá le habló al hermano
+papá le ordenó que laven
+vamos a conducir el carro
+vamos a arreglar el carro
+vamos a vender las papas
+vamos a curar al papá
+vamos a dar de comer a la mamá
+vamos a ver al cuñado
+vamos a guardar la ropa 
+vamos hacer bañar al bebé
+con quien estaba ríendo el bebé
+con quién estaba jugando el niño
+mañana vendrá pronto
+hoy vamos a jugar
+mañana nos vamos a sembrar 
+mañana vamos a tzaumar  
+mañana vamos a arar  
+mañana vamos a curar  
+tarde vamos a comer 
+mañana nos vamos a la minga
+ahora nos vamos a trabajar
+Rosa se fue a la minga
+el cuñado se fue a jugar
+vamos a comprar pelota
+vamos a comprar el libro
+vamos vender el libro
+vamos a regalar el libro
+vamos a quemar el libro
+ayer compré la ropa
+tarde voy a vender
+ayer sembré papas
+ayer vendí habas
+ayer cociné quínua
+ayer cosechamos cebada
+ayer cabamos papas
+de noche vino el esposo
+de día trabajamos en la casa
+mañana viene el marido
+ayer vino la esposa
+ven mujer bonita
+come despacio niño
+vamos a llamar al hermano
+vamos a comer las papas
+vamos a tomar chicha
+vamos a jugar la pelota
+vamos a sentarnos abajo
+mujer vamos a la ciudad
+hijos vamos a la ciudad
+vamos bailar señorita
+vamos a tomar jovenes
+hermana vamos a jugar
+hermanito vamos a jugar
+vamos a la escuela
+vamos a la tienda
+vamos a comprar dulce
+vamos a comprar tortilla
+vamos a vender la mashwa
+vamos a comer oca
+vamos a comprar cebada
+vamos a encargar al niño
+vamos a pasear en la ciudad
+vamos volver de arriba
+debo sembrar senteno
+debo golpear cebada
+debo vender cebada
+debo cortar hierva en las papas
+debo comprar faja
+tengo que dar de comer
+debo cocinar carne 
+debo llevar soga
+tengo que cosechar la yuca 
+debo sembrar  zanahoria
+debo endulzar oca
+debo vender la lana de borrego
+tarde nos encontramos en la comunidad
+asomará mañana en la ciudad 
+mañana vendrás a la casa
+vendrá con el hijo
+otro día vino a la casa
+faltan cuatro días
+han venido diez niños
+tengo una oveja
+vendí un perro
+tengo dos chivos
+tengo cuatro chanchos
+tengo un hijo
+tengo dos casas
+vendí dos carros
+tengo tres carros
+compré cuatro cantaros
+tengo ocho casas
+tengo tres ganados
+ha robado una vaca
+ha matado dos perros
+compré tierra negra
+son nueve ovejas blancas
+un perro negro corrió para arriba
+es un gato amarillo
+van dos toros negros
+son dos chanchos blancos
+ha muerto la oveja negra
+la gata blanca esta con crías
+han muerto hombres negros 
+falta el pato amarillo
+mataron al pato amarillo
+compró maíz blanco
+vendrá comprando una bayeta roja
+comprará zapatos para el niño
+el zapato ha sido pequeño
+se reventó la pelota negra
+las niñas están con bayetas amarillas
+comí bastante machica
+mi hermana me habló bastante  
+han robado bastante dinero
+quién ha robado la pelota
+vamos a matar ovejas
+son tres cuyes negros
+usted está llorando por su esposo
+ella está bañando al niño
+papá esta votando cebada
+hermana está yendo al agua
+cuando me case bailaré con la familia
+voy estar feliz cuando me case
+con quién te vas a comprar
+cuántos pollos estan vivos 
+ahora no voy 
+si vamos a sembrar
+por qué no comes
+por qué no juegas
+quién te ordenó que hables
+vamos cosechar
+llevará la semilla de papa
+mucho me duele la nariz 
+el niño se sacó el diente
+el papá tiene dolor de corazón
+papá le pegó en la boca
+Manuel tiene dolor de cabeza
+ha comprado zapatos azules
+yo quiero la entrada
+está puesto un sombrero viejo
+ha comprado un collar verde
+se rompió el zapato rojo
+ha votado sombrero negro
+le robaron robaron el collar azul
+quién comió plátano
+tiene una bufanda blanca en el cuello
+con quién  bailo un poco
+quién me ayudará
+quién me acompañará de noche
+no te olvidarás de mí
+nunca te olvidarás de los hijos
+no serás travieso con cualquiera
+jugará bonito con la pelota
+el perro bravo ha mordido
+no tomarás licor
+no te equivocarás hermanita
+ella ya está llorando
+los amigos te critican
+traiga el perro pequeño
+mañana vamos a la sembrar
+regresaste bien papasito
+estás viviendo bien abuelita  
+comprarás una bayeta para las niñas
+ponle el pocho al papá
+mañana a pastar las ovejas
+vamos a arar con los bueyes
+Sara está con el perro negro
+Rosa está con el gato pequeñito
+mañana no vendrás
+hoy no se acaba
+ayer llovió por la comunidad
+otro día durmió aquí
+mujer vamos a dormir
+a los niños les gusta jugar
+ahí está comiendo la oveja
+dale hierva al cuy
+dale cebada al pollo
+traerá comprando carne de pollo
+matará al gato goloso
+los cerdos enfermos están muriendo
+coja al cuy para pelar
+castré al chancho pequeño
+se volcó el carra pequeño
+lavó el carro rojo
+tengo mucha papa
+sembraré mucha oca
+vendí bastante terreno
+corté bastante hierba
+matemos bastantes pollos
+ahorca al perro goloso
+con quién me río si no estas
+quién me va ayudar a vender
+si él sabe venir
+si traiga eso
+si espera un poco
+a mí no me irá votando
+habido gusano blanco
+se me perdió el zapato blanco
+ella está dando de comer al bebé
+esposa vamos a comer
+marido vamos a bailar
+esposa vamos a tomar
+aun no vendrás Andrés
+aun no comerás colada
+quién te dió pan
+de dónde vienes Rosa
+con quién jugaste ayer 
+no me hagas enojar
+aún no comerás  todo 
+asará el cuy en leña
